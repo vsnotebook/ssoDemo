@@ -4,6 +4,7 @@
   <artifactId>client-crm</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
+
   <dependencies>
   	<dependency>
         <groupId>javax.servlet</groupId>

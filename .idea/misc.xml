@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/sso-client-base-project" />
+    <file type="web" url="file://$PROJECT_DIR$/sso-client-base-project2" />
+    <file type="web" url="file://$PROJECT_DIR$/sso-server-base-project" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sso-client-base-project/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-client-base-project2/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-server-base-project/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
